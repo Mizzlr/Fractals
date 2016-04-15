@@ -1,0 +1,5 @@
+variables: A B
+constants: [ ] + -
+axiom: A
+rules: (B->BB) (A->B[+A]-A)
+angle: 45
